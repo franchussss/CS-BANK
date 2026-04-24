@@ -1,6 +1,6 @@
 let usuarios = [
     { id: 1, nombre: 'Fran', saldo: 1000 },
-    { id: 2, nombre: 'Maxi', saldo: 2000 }
+    { id: 2, nombre: 'Guille', saldo: 2000 }
 ];
 
 const obtenerTodos = () => {
